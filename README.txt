@@ -10,8 +10,6 @@ http://cogcomp.cs.illinois.edu/page/resource_view/97
 Some of the files are copied here.
 http://home.cse.ust.hk/~yqsong/uiuc_backup/WikiLuceneIndex_word500_link30.zip
 http://home.cse.ust.hk/~yqsong/uiuc_backup/wikiIndexLucene3.0.2_vivek.zip
-http://home.cse.ust.hk/~yqsong/uiuc_backup/wiki_structured.zip
-http://home.cse.ust.hk/~yqsong/uiuc_backup/enwiki_vivek_200.zip
 http://home.cse.ust.hk/~yqsong/uiuc_backup/vectors-enwikitext_vivek200.zip
 http://home.cse.ust.hk/~yqsong/uiuc_backup/MemoryBasedESA.zip
 --End of Update 20190412--
