@@ -12,6 +12,7 @@ http://home.cse.ust.hk/~yqsong/uiuc_backup/WikiLuceneIndex_word500_link30.zip
 http://home.cse.ust.hk/~yqsong/uiuc_backup/wikiIndexLucene3.0.2_vivek.zip
 http://home.cse.ust.hk/~yqsong/uiuc_backup/vectors-enwikitext_vivek200.zip
 http://home.cse.ust.hk/~yqsong/uiuc_backup/MemoryBasedESA.zip
+http://home.cse.ust.hk/~yqsong/uiuc_backup/wikiPageIDMapping.txt
 --End of Update 20190412--
 
 It contails following files:
